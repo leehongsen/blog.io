@@ -2,7 +2,7 @@
 title: 舟行书海 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "天道酬勤，百折不挠|舟行书海"  # 一句话描述你的博客
+description: "李洪森|舟行书海"  # 一句话描述你的博客
 baseurl: ""
 url: "https://github.com/cnfeat/blog.io"  # 此处填写你的博客地址 
 
@@ -18,7 +18,7 @@ favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
-github_username: 
+github_username: leehongsen
 facebook_username: 
 weibo_username: 
 zhihu_username: 
