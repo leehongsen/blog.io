@@ -1,16 +1,25 @@
 # Site settings
-title: 博客名字 # 你的博客名字，可以定义修订
+title: 舟行书海 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "这是我的博客"  # 一句话描述你的博客
+description: "天道酬勤，百折不挠"  # 一句话描述你的博客
 baseurl: ""
 url: "http://cnfeat"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
-  name: "作者名字" # 填写作者信息：名字
-  email: X@gmail.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  name: "李洪森" # 填写作者信息：名字
+  email: lee775112@163.com # 填写作者信息：邮箱
+  bio: "你给翻译翻译，什么叫惊喜?翻译翻译，什么叫惊喜?
+这还用翻译，都说了。
+我让你翻译给我听，什么叫惊喜?
+不用翻译，这就是惊喜啊。
+难道你听不懂什么叫惊喜?
+我就想让你翻译翻译，什么叫惊喜!
+惊喜嘛
+翻译出来给我听，什么他妈的叫惊喜!什么他妈的叫他妈的惊喜!
+什么他妈的叫惊喜啊?
+惊喜就是三天之后，我们集资一百八十万，买衣服给up女装，明白了吗w(ﾟДﾟ)w" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
@@ -43,7 +52,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "你的名字" # 你的名字
+      author: "李洪森" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
